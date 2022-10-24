@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">A passionate Front-end React Developer from Barcelona.</h3>
+<h3>A passionate Front-end React Developer from Barcelona.</h3>
+
+- 👁️‍🗨️ I'm currently working at [IT Academy de Barcelona Activa](https://www.linkedin.com/school/it-academy-barcelonactiva/mycompany/). as Intermediate FrontEnd Developer with ReactJS, API REST, CSS/Styled-Component, Vite, Vitest, Jest, AGILE with Sprints, and Github, CI/CD workflow.
+- 🔍 Open to interesting job offers.
+- 🔭 I’m currently using HTML, CSS, JS ES6+, ReactJS, Redux.
+- 🌱 I’m currently learning Redux Toolkit.
+- 💬 Ask me about ReactJS, css.
+- 👯 I’m looking to collaborate on interesting projects of any kind.
+- 📫 Reach me on Discord: jORge#1217
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordinodejs&label=Profile%20views&color=0e75b6&style=flat" alt="jordinodejs" /> </p>
 
