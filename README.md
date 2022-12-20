@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3>A passionate Front-end React Developer from Barcelona.</h3>
 
-- 👁️‍🗨️ I'm currently working at [IT Academy de Barcelona Activa](https://www.linkedin.com/school/it-academy-barcelonactiva/mycompany/). as Intermediate FrontEnd Developer with ReactJS, API REST, CSS/Styled-Component, Vite, Vitest, Jest, AGILE with Sprints, and Github, CI/CD workflow.
+- 👁️‍🗨️ I'm currently working on [IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory) as Intermediate FrontEnd Developer with ReactJS, API REST, CSS/Styled-Component, Vite, Vitest, Jest, AGILE with Sprints, and Github, CI/CD workflow.
 - 🔍 Open to interesting job offers.
 - 🔭 I’m currently using HTML, CSS, JS ES6+, ReactJS, Redux.
 - 🌱 I’m currently learning Redux Toolkit.
@@ -58,3 +58,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordinodejs&show_icons=true&locale=en" alt="jordinodejs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordinodejs&" alt="jordinodejs" /></p>
+
+# 👇 My Projects 👇
