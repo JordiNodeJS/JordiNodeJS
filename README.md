@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3>A passionate Front-end React Developer from Barcelona.</h3>
-<p align="center"><strong>My latest <a href="#projects">projects</a> </strong></p>
+
+### A passionate Front-end React Developer from Barcelona.
+
+My latest [projects](#projects)
 
 - 👁️‍🗨️ I'm currently working on [IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory) as Intermediate FrontEnd Developer with ReactJS, API REST, CSS/Styled-Component, Vite, Vitest, Jest, AGILE with Sprints, and Github, CI/CD workflow.
 - 🔍 Open to interesting job offers.
@@ -61,4 +63,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordinodejs&" alt="jordinodejs" /></p>
 
 <a href="#projects"></a>
+![](#projects)
 # 👇 My Projects 👇
