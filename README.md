@@ -2,15 +2,13 @@
 
 ### A passionate Front-end React Developer from Barcelona.
 
-My latest [projects](#projects)
-
 - 👁️‍🗨️ I'm currently working on [IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory) as Intermediate FrontEnd Developer with ReactJS, API REST, CSS/Styled-Component, Vite, Vitest, Jest, AGILE with Sprints, and Github, CI/CD workflow.
 - 🔍 Open to interesting job offers.
-- 🔭 I’m currently using HTML, CSS, JS ES6+, ReactJS, Redux.
+- 🔭 I’m currently using HTML, CSS, Tailind, Bootstrap, JS ES6+, ReactJS, Redux Toolkit, RTK Query, Styled Components, npm, node, Docker
 - 🌱 I’m currently learning Redux Toolkit.
 - 💬 Ask me about ReactJS, css.
 - 👯 I’m looking to collaborate on interesting projects of any kind.
-- 📫 Reach me on Discord: jORge#1217
+- 📫 Reach me on Discord: ***jORge#1217***
 
 
 
