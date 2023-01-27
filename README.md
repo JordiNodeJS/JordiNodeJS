@@ -60,6 +60,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordinodejs&" alt="jordinodejs" /></p>
 <!-- https://youtu.be/n6d4KHSKqGk?t=132 -->
 <a href="#projects"></a>
-![](#projects)
+
 
 # 👇 My Projects 👇
