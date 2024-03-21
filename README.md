@@ -2,7 +2,8 @@
 
 ### A passionate Front-end React Developer from Barcelona.
 
-- 👁️‍🗨️ I'm currently working on [IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory) as Intermediate FrontEnd Developer with ReactJS, API REST, CSS/Styled-Component, Vite, Vitest, Jest, AGILE with Sprints, and Github, CI/CD workflow.
+- 👁️‍🗨️ I was working on [IT Academy Directory](https://github.com/IT-Academy-BCN/ita-directory) as Intermediate FrontEnd Developer with ReactJS, API REST, CSS/Styled-Component, Vite, Vitest, Jest, AGILE with Sprints, and Github, CI/CD workflow.
+- 🕶️😎 Nowadays, I'm currently working on [FLiPO](https://flipoeyewear.com/), project that is about creating an innovative eyewear brand called FLiPO EyeWear that offers fully interchangeable glasses, combining style with practicality.
 - 🔍 Open to interesting job offers.
 - 🔭 I’m currently using HTML, CSS, Tailind, Bootstrap, JS ES6+, ReactJS, Redux Toolkit, RTK Query, Styled Components, npm, node, Docker
 - 🌱 I’m currently learning Redux Toolkit.
